@@ -1,4 +1,4 @@
-# Fairnes_Tutorial
+# Fairness_Tutorial
 ## Notebook概要
 - 目的は[Fairlean](https://fairlearn.org/main/quickstart.html#)で準備されている公平性指標や緩和アルゴリズムを使用を通じたAI公平性ツール理解の補助。
 - 使用する[Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)は性別、年齢などの個人情報と共に収入が50k以上かどうかのラベルを提供。
